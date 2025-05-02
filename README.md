@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hi there, I'm Aleyna 👋
 
-<!--
-**aleyna-t/aleyna-t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electrical Engineering student at Yildiz Technical University  
+💻 Also studying Computer Programming at Istanbul University  
+🚀 Learning Python, AI, Data Science & Game Development  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech Stack
+- 💻 Languages: Python, C, C#, SQL, HTML
+- 🛠 Tools: MATLAB, Simulink, AutoCAD, MS Office
+
+---
+
+### 📌 Featured Projects
+- [Personal Expense Tracker](https://github.com/aleyna-t/personal-expense-tracker)
+- [Movie Recommendation System](https://github.com/aleyna-t/movie-recommendation-system)
+- [Portfolio Website](https://github.com/aleyna-t/aleyna-portfolio-site)
+
+---
+🌐 [LinkedIn](https://linkedin.com/in/aleynatepeli)
